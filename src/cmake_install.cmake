@@ -1,4 +1,4 @@
-# Install script for directory: /home/ionz/Documents/learn c++/step change
+# Install script for directory: /home/messnix/Documents/step_trial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ionz/Documents/learn c++/step change/src/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/messnix/Documents/step_trial/src/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

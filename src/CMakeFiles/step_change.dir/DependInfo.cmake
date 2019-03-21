@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ionz/Documents/learn c++/step change/src/step_change.cpp" "/home/ionz/Documents/learn c++/step change/src/CMakeFiles/step_change.dir/step_change.cpp.o"
+  "/home/messnix/Documents/step_trial/src/step_change.cpp" "/home/messnix/Documents/step_trial/src/CMakeFiles/step_change.dir/step_change.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

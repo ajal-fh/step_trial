@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/ionz/Documents/learn c++/step change/src/step_change.cpp
+/home/messnix/Documents/step_trial/src/step_change.cpp
 iostream
--
-string
--
-unistd.h
 -
 

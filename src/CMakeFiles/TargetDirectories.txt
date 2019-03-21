@@ -1,3 +1,3 @@
-/home/ionz/Documents/learn c++/step change/src/CMakeFiles/rebuild_cache.dir
-/home/ionz/Documents/learn c++/step change/src/CMakeFiles/edit_cache.dir
-/home/ionz/Documents/learn c++/step change/src/CMakeFiles/step_change.dir
+/home/messnix/Documents/step_trial/src/CMakeFiles/rebuild_cache.dir
+/home/messnix/Documents/step_trial/src/CMakeFiles/edit_cache.dir
+/home/messnix/Documents/step_trial/src/CMakeFiles/step_change.dir
